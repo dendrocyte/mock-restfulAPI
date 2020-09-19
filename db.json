@@ -1,0 +1,51 @@
+{
+	"live" : {
+		"Id": 1,
+		"LiveList": [
+			{
+				"Name": "26",
+      			"Url": "http://192.168.2.2:38000/SABCGoodHope.m3u8",
+      			"channel_name": "26",
+      			"icon": "http://192.168.2.2:40000/live/photo/SABCGoodHope.png",
+      			"category": "live radio"
+    		},
+    		{
+      			"Name": "27",
+      			"Url": "http://192.168.2.2:38000/SABCPhalaphalaFM.m3u8",
+      			"channel_name": "27",
+      			"icon": "http://192.168.2.2:40000/live/photo/SABCPhalaphalaFM.png",
+      			"category": "live radio"
+    		},
+    		{
+      			"Name": "free1",
+      			"Url": "http://playertest.longtailvideo.com/adaptive/wowzaid3/playlist.m3u8",
+      			"channel_name": "free1",
+      			"icon": "http://192.168.2.2:40000/live/photo/CH-01.png",
+      			"category": "live tv"
+    		},
+    		{
+      			"Name": "free2",
+      			"Url": "http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8",
+      			"channel_name": "free2",
+      			"icon": "http://192.168.2.2:40000/live/photo/CH-02.png",
+      			"category": "live tv"
+    		},
+    		{
+      			"Name": "free3",
+      			"Url": "http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8",
+      			"channel_name": "free3",
+      			"icon": "http://192.168.2.2:40000/live/photo/CH-03.png",
+      			"category": "live tv"
+    		}
+  		],
+  		"State": 0,
+  		"Ticks": 1,
+  		"provider": "nanocdn"
+	},
+	"noData": {
+  		"status": 204,
+  		"success": true,
+  		"description": "no content available",
+  		"data": null
+	}
+}
