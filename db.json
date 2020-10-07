@@ -47,5 +47,7 @@
   		"success": true,
   		"description": "no content available",
   		"data": null
-	}
+	},
+	"menu":["live tv", "live radio","catchup"]
+	
 }
