@@ -55,118 +55,119 @@
   ],
   "schedule": [
     {
+      "id":1,
+      "start": "20190927010000 +0000",
+      "stop": "20190927013000 +0000",
       "channel": "HBO",
-      "programs": [
-        {
-          "start": "20190927010000 +0000",
-          "stop": "20190927013000 +0000",
-          "channel": "HBO",
-          "title": "The Mum Show",
-          "desc": "Kids with Attitude",
-          "date": "20190927",
-          "lang": "en",
-          "length": "30",
-          "pid": "program-1",
-          "cover": "",
-          "url": ""
-        },
-        {
-          "start": "20190927013000 +0000",
-          "stop": "20190927020000 +0000",
-          "channel": "HBO",
-          "title": "Philosophy",
-          "desc": "Design - A Biological Reflection",
-          "date": "20190927",
-          "lang": "jp",
-          "length": "30",
-          "pid": "program-2",
-          "cover": "",
-          "url": ""
-        },
-        {
-          "start": "2019092702000 +0000",
-          "stop": "20190927040000 +0000",
-          "channel": "HBO",
-          "title": "Real Stories",
-          "desc": "CT Studd - Out of the Ashes",
-          "date": "20190927",
-          "lang": "jp",
-          "length": "180",
-          "pid": "program-3",
-          "cover": "",
-          "url": ""
-        },
-        {
-          "start": "2019092704000 +0000",
-          "stop": "20190927070000 +0000",
-          "channel": "HBO",
-          "title": "A Muslim Journey to Hope",
-          "desc": "G. Mueller -Robber of the Cruel Streets",
-          "date": "20190927",
-          "lang": "Kamran",
-          "length": "180",
-          "pid": "program-4",
-          "cover": "",
-          "url": ""
-        },
-        {
-          "start": "2019092707000 +0000",
-          "stop": "20190927080000 +0000",
-          "channel": "HBO",
-          "title": "Isik Abla Embracing New Life",
-          "desc": "test",
-          "date": "20190927",
-          "lang": "Kamran",
-          "length": "60",
-          "pid": "program-5",
-          "cover": "",
-          "url": ""
-        },
-        {
-          "start": "2019092708000 +0000",
-          "stop": "20190927090000 +0000",
-          "channel": "HBO",
-          "title": "Senem Ekener Part 2",
-          "desc": "No Way",
-          "date": "20190927",
-          "lang": "Kamran",
-          "length": "60",
-          "pid": "program-6",
-          "cover": "",
-          "url": ""
-        },
-        {
-          "start": "2019092709000 +0000",
-          "stop": "20190927120000 +0000",
-          "channel": "HBO",
-          "title": "Global Ventures",
-          "desc": "Human Trafficking",
-          "date": "20190927",
-          "lang": "Kamran",
-          "length": "180",
-          "pid": "program-7",
-          "cover": "",
-          "url": ""
-        }
-      ]
+      "title": "The Mum Show",
+      "desc": "Kids with Attitude",
+      "date": "20190927",
+      "lang": "en",
+      "length": "30",
+      "pid": "program-1",
+      "cover": "",
+      "url": ""
     },
     {
-      "channel": "Catoon",
-      "programs": [
-        {
-          "start": "20190927000000 +0000",
-          "stop": "20190927003000 +0000",
-          "channel": "Catoon",
-          "title": "Tom & Jerry",
-          "desc": "Cat and Mouse",
-          "date": "20190927",
-          "lang": "en",
-          "length": "30",
-          "pid": "program1-1",
-          "cover": "",
-          "url": ""
+      "id":2,
+      "start": "20190927013000 +0000",
+      "stop": "20190927020000 +0000",
+      "channel": "HBO",
+      "title": "Philosophy",
+      "desc": "Design - A Biological Reflection",
+      "date": "20190927",
+      "lang": "jp",
+      "length": "30",
+      "pid": "program-2",
+      "cover": "",
+      "url": ""
+     },
+     {
+        "id":3,
+        "start": "2019092702000 +0000",
+        "stop": "20190927040000 +0000",
+        "channel": "HBO",
+        "title": "Real Stories",
+        "desc": "CT Studd - Out of the Ashes",
+        "date": "20190927",
+        "lang": "jp",
+        "length": "180",
+        "pid": "program-3",
+        "cover": "",
+        "url": ""
+      },
+      {
+        "id":4,
+        "start": "2019092704000 +0000",
+        "stop": "20190927070000 +0000",
+        "channel": "HBO",
+        "title": "A Muslim Journey to Hope",
+        "desc": "G. Mueller -Robber of the Cruel Streets",
+        "date": "20190927",
+        "lang": "Kamran",
+        "length": "180",
+        "pid": "program-4",
+        "cover": "",
+        "url": ""
+      },
+      {
+        "id":5,
+        "start": "2019092707000 +0000",
+        "stop": "20190927080000 +0000",
+        "channel": "HBO",
+        "title": "Isik Abla Embracing New Life",
+        "desc": "test",
+        "date": "20190927",
+        "lang": "Kamran",
+        "length": "60",
+        "pid": "program-5",
+        "cover": "",
+        "url": ""
+       },
+       {
+         "id":6,
+         "start": "2019092708000 +0000",
+         "stop": "20190927090000 +0000",
+         "channel": "HBO",
+         "title": "Senem Ekener Part 2",
+         "desc": "No Way",
+         "date": "20190927",
+         "lang": "Kamran",
+         "length": "60",
+         "pid": "program-6",
+         "cover": "",
+         "url": ""
+       },
+       {
+         "id":7,
+         "start": "2019092709000 +0000",
+         "stop": "20190927120000 +0000",
+         "channel": "HBO",
+         "title": "Global Ventures",
+         "desc": "Human Trafficking",
+         "date": "20190927",
+         "lang": "Kamran",
+         "length": "180",
+         "pid": "program-7",
+         "cover": "",
+         "url": ""
+       },
+       {
+         "id":8,
+         "start": "20190927000000 +0000",
+         "stop": "20190927003000 +0000",
+         "channel": "Catoon",
+         "title": "Tom & Jerry",
+         "desc": "Cat and Mouse",
+         "date": "20190927",
+         "lang": "en",
+         "length": "30",
+         "pid": "program1-1",
+         "cover": "",
+         "url": ""
         },
         {
+          "id":9,
           "start": "20190927003000 +0000",
           "stop": "20190927020000 +0000",
           "channel": "Catoon",
@@ -180,6 +181,7 @@
           "url": ""
         },
         {
+          "id":10,
           "start": "2019092702000 +0000",
           "stop": "20190927040000 +0000",
           "channel": "Catoon",
@@ -193,6 +195,7 @@
           "url": ""
         },
         {
+          "id":11,
           "start": "2019092704000 +0000",
           "stop": "20190927070000 +0000",
           "channel": "Catoon",
@@ -206,6 +209,7 @@
           "url": ""
         },
         {
+          "id":12,
           "start": "2019092707000 +0000",
           "stop": "20190927090000 +0000",
           "channel": "Catoon",
@@ -219,6 +223,7 @@
           "url": ""
         },
         {
+          "id":13,
           "start": "2019092709000 +0000",
           "stop": "20190927110000 +0000",
           "channel": "Catoon",
@@ -232,6 +237,7 @@
           "url": ""
         },
         {
+          "id":14,
           "start": "2019092711000 +0000",
           "stop": "20190927120000 +0000",
           "channel": "Catoon",
@@ -245,6 +251,7 @@
           "url": ""
         },
         {
+          "id":15,
           "start": "2019092712000 +0000",
           "stop": "20190927123000 +0000",
           "channel": "Catoon",
@@ -258,6 +265,4 @@
           "url": ""
         }
       ]
-    }
-  ]
 }
