@@ -1,53 +1,263 @@
 {
-	"live" : {
-		"Id": 1,
-		"LiveList": [
-			{
-				"Name": "26",
-      			"Url": "http://192.168.2.2:38000/SABCGoodHope.m3u8",
-      			"channel_name": "26",
-      			"icon": "http://192.168.2.2:40000/live/photo/SABCGoodHope.png",
-      			"category": "live radio"
-    		},
-    		{
-      			"Name": "27",
-      			"Url": "http://192.168.2.2:38000/SABCPhalaphalaFM.m3u8",
-      			"channel_name": "27",
-      			"icon": "http://192.168.2.2:40000/live/photo/SABCPhalaphalaFM.png",
-      			"category": "live radio"
-    		},
-    		{
-      			"Name": "free1",
-      			"Url": "http://playertest.longtailvideo.com/adaptive/wowzaid3/playlist.m3u8",
-      			"channel_name": "free1",
-      			"icon": "http://192.168.2.2:40000/live/photo/CH-01.png",
-      			"category": "live tv"
-    		},
-    		{
-      			"Name": "free2",
-      			"Url": "http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8",
-      			"channel_name": "free2",
-      			"icon": "http://192.168.2.2:40000/live/photo/CH-02.png",
-      			"category": "live tv"
-    		},
-    		{
-      			"Name": "free3",
-      			"Url": "http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8",
-      			"channel_name": "free3",
-      			"icon": "http://192.168.2.2:40000/live/photo/CH-03.png",
-      			"category": "live tv"
-    		}
-  		],
-  		"State": 0,
-  		"Ticks": 1,
-  		"provider": "nanocdn"
-	},
-	"noData": {
-  		"status": 204,
-  		"success": true,
-  		"description": "no content available",
-  		"data": null
-	},
-	"menu":["live tv", "live radio","catchup"]
-	
+  "live": {
+    "Id": 1,
+    "LiveList": [
+      {
+        "Name": "26",
+        "Url": "http://192.168.2.2:38000/SABCGoodHope.m3u8",
+        "channel_name": "26",
+        "icon": "http://192.168.2.2:40000/live/photo/SABCGoodHope.png",
+        "category": "live radio"
+      },
+      {
+        "Name": "27",
+        "Url": "http://192.168.2.2:38000/SABCPhalaphalaFM.m3u8",
+        "channel_name": "27",
+        "icon": "http://192.168.2.2:40000/live/photo/SABCPhalaphalaFM.png",
+        "category": "live radio"
+      },
+      {
+        "Name": "free1",
+        "Url": "http://playertest.longtailvideo.com/adaptive/wowzaid3/playlist.m3u8",
+        "channel_name": "free1",
+        "icon": "http://192.168.2.2:40000/live/photo/CH-01.png",
+        "category": "live tv"
+      },
+      {
+        "Name": "free2",
+        "Url": "http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8",
+        "channel_name": "free2",
+        "icon": "http://192.168.2.2:40000/live/photo/CH-02.png",
+        "category": "live tv"
+      },
+      {
+        "Name": "free3",
+        "Url": "http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8",
+        "channel_name": "free3",
+        "icon": "http://192.168.2.2:40000/live/photo/CH-03.png",
+        "category": "live tv"
+      }
+    ],
+    "State": 0,
+    "Ticks": 1,
+    "provider": "nanocdn"
+  },
+  "noData": {
+    "status": 204,
+    "success": true,
+    "description": "no content available",
+    "data": null
+  },
+  "menu": [
+    "live tv",
+    "live radio",
+    "catchup"
+  ],
+  "schedule": [
+    {
+      "channel": "HBO",
+      "programs": [
+        {
+          "start": "20190927010000 +0000",
+          "stop": "20190927013000 +0000",
+          "channel": "HBO",
+          "title": "The Mum Show",
+          "desc": "Kids with Attitude",
+          "date": "20190927",
+          "lang": "en",
+          "length": "30",
+          "pid": "program-1",
+          "cover": "",
+          "url": ""
+        },
+        {
+          "start": "20190927013000 +0000",
+          "stop": "20190927020000 +0000",
+          "channel": "HBO",
+          "title": "Philosophy",
+          "desc": "Design - A Biological Reflection",
+          "date": "20190927",
+          "lang": "jp",
+          "length": "30",
+          "pid": "program-2",
+          "cover": "",
+          "url": ""
+        },
+        {
+          "start": "2019092702000 +0000",
+          "stop": "20190927040000 +0000",
+          "channel": "HBO",
+          "title": "Real Stories",
+          "desc": "CT Studd - Out of the Ashes",
+          "date": "20190927",
+          "lang": "jp",
+          "length": "180",
+          "pid": "program-3",
+          "cover": "",
+          "url": ""
+        },
+        {
+          "start": "2019092704000 +0000",
+          "stop": "20190927070000 +0000",
+          "channel": "HBO",
+          "title": "A Muslim Journey to Hope",
+          "desc": "G. Mueller -Robber of the Cruel Streets",
+          "date": "20190927",
+          "lang": "Kamran",
+          "length": "180",
+          "pid": "program-4",
+          "cover": "",
+          "url": ""
+        },
+        {
+          "start": "2019092707000 +0000",
+          "stop": "20190927080000 +0000",
+          "channel": "HBO",
+          "title": "Isik Abla Embracing New Life",
+          "desc": "test",
+          "date": "20190927",
+          "lang": "Kamran",
+          "length": "60",
+          "pid": "program-5",
+          "cover": "",
+          "url": ""
+        },
+        {
+          "start": "2019092708000 +0000",
+          "stop": "20190927090000 +0000",
+          "channel": "HBO",
+          "title": "Senem Ekener Part 2",
+          "desc": "No Way",
+          "date": "20190927",
+          "lang": "Kamran",
+          "length": "60",
+          "pid": "program-6",
+          "cover": "",
+          "url": ""
+        },
+        {
+          "start": "2019092709000 +0000",
+          "stop": "20190927120000 +0000",
+          "channel": "HBO",
+          "title": "Global Ventures",
+          "desc": "Human Trafficking",
+          "date": "20190927",
+          "lang": "Kamran",
+          "length": "180",
+          "pid": "program-7",
+          "cover": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "channel": "Catoon",
+      "programs": [
+        {
+          "start": "20190927000000 +0000",
+          "stop": "20190927003000 +0000",
+          "channel": "Catoon",
+          "title": "Tom & Jerry",
+          "desc": "Cat and Mouse",
+          "date": "20190927",
+          "lang": "en",
+          "length": "30",
+          "pid": "program1-1",
+          "cover": "",
+          "url": ""
+        },
+        {
+          "start": "20190927003000 +0000",
+          "stop": "20190927020000 +0000",
+          "channel": "Catoon",
+          "title": "Movie-One piece",
+          "desc": "One piece",
+          "date": "20190927",
+          "lang": "jp",
+          "length": "90",
+          "pid": "program1-2",
+          "cover": "",
+          "url": ""
+        },
+        {
+          "start": "2019092702000 +0000",
+          "stop": "20190927040000 +0000",
+          "channel": "Catoon",
+          "title": "Disney-upside down",
+          "desc": "",
+          "date": "20190927",
+          "lang": "jp",
+          "length": "120",
+          "pid": "program1-3",
+          "cover": "",
+          "url": ""
+        },
+        {
+          "start": "2019092704000 +0000",
+          "stop": "20190927070000 +0000",
+          "channel": "Catoon",
+          "title": "Harry Porter-Ep1",
+          "desc": "",
+          "date": "20190927",
+          "lang": "Kamran",
+          "length": "180",
+          "pid": "program1-4",
+          "cover": "",
+          "url": ""
+        },
+        {
+          "start": "2019092707000 +0000",
+          "stop": "20190927090000 +0000",
+          "channel": "Catoon",
+          "title": "Harry Porter-Ep2",
+          "desc": "test",
+          "date": "20190927",
+          "lang": "Kamran",
+          "length": "120",
+          "pid": "program1-5",
+          "cover": "",
+          "url": ""
+        },
+        {
+          "start": "2019092709000 +0000",
+          "stop": "20190927110000 +0000",
+          "channel": "Catoon",
+          "title": "Harry Porter-Ep3",
+          "desc": "No Way",
+          "date": "20190927",
+          "lang": "Kamran",
+          "length": "120",
+          "pid": "program1-6",
+          "cover": "",
+          "url": ""
+        },
+        {
+          "start": "2019092711000 +0000",
+          "stop": "20190927120000 +0000",
+          "channel": "Catoon",
+          "title": "The Earth",
+          "desc": "",
+          "date": "20190927",
+          "lang": "Kamran",
+          "length": "60",
+          "pid": "program1-7",
+          "cover": "",
+          "url": ""
+        },
+        {
+          "start": "2019092712000 +0000",
+          "stop": "20190927123000 +0000",
+          "channel": "Catoon",
+          "title": "The Moon",
+          "desc": "",
+          "date": "20190927",
+          "lang": "Kamran",
+          "length": "30",
+          "pid": "program1-8",
+          "cover": "",
+          "url": ""
+        }
+      ]
+    }
+  ]
 }
