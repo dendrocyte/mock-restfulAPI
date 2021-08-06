@@ -58,8 +58,8 @@
       "channel": "HBO",
       "programs": [
         {
-          "start": "20190927T01:00:00+00:00",
-          "stop":  "20190927T01:30:00+00:00",
+          "start": "2019-09-27T01:00:00+00:00",
+          "stop":  "2019-09-27T01:30:00+00:00",
           "channel": "HBO",
           "title": "The Mum Show",
           "desc": "Kids with Attitude",
@@ -71,8 +71,8 @@
           "url": ""
         },
         {
-          "start": "20190927T01:30:00+00:00",
-          "stop":  "20190927T02:00:00+00:00",
+          "start": "2019-09-27T01:30:00+00:00",
+          "stop":  "2019-09-27T02:00:00+00:00",
           "channel": "HBO",
           "title": "Philosophy",
           "desc": "Design - A Biological Reflection",
@@ -84,8 +84,8 @@
           "url": ""
         },
         {
-          "start": "20190927T02:00:00+00:00",
-          "stop":  "20190927T04:00:00+00:00",
+          "start": "2019-09-27T02:00:00+00:00",
+          "stop":  "2019-09-27T04:00:00+00:00",
           "channel": "HBO",
           "title": "Real Stories",
           "desc": "CT Studd - Out of the Ashes",
@@ -97,8 +97,8 @@
           "url": ""
         },
         {
-          "start": "20190927T04:00:00+00:00",
-          "stop":  "20190927T07:00:00+00:00",
+          "start": "2019-09-27T04:00:00+00:00",
+          "stop":  "2019-09-27T07:00:00+00:00",
           "channel": "HBO",
           "title": "A Muslim Journey to Hope",
           "desc": "G. Mueller -Robber of the Cruel Streets",
@@ -110,8 +110,8 @@
           "url": ""
         },
         {
-          "start": "20190927T07:00:00+00:00",
-          "stop":  "20190927T08:00:00+00:00",
+          "start": "2019-09-27T07:00:00+00:00",
+          "stop":  "2019-09-27T08:00:00+00:00",
           "channel": "HBO",
           "title": "Isik Abla Embracing New Life",
           "desc": "test",
@@ -123,8 +123,8 @@
           "url": ""
         },
         {
-          "start": "20190927T08:00:00+00:00",
-          "stop":  "20190927T09:00:00+00:00",
+          "start": "2019-09-27T08:00:00+00:00",
+          "stop":  "2019-09-27T09:00:00+00:00",
           "channel": "HBO",
           "title": "Senem Ekener Part 2",
           "desc": "No Way",
@@ -136,8 +136,8 @@
           "url": ""
         },
         {
-          "start": "20190927T09:00:00+00:00",
-          "stop":  "20190927T12:00:00+00:00",
+          "start": "2019-09-27T09:00:00+00:00",
+          "stop":  "2019-09-27T12:00:00+00:00",
           "channel": "HBO",
           "title": "Global Ventures",
           "desc": "Human Trafficking",
@@ -154,8 +154,8 @@
       "channel": "Catoon",
       "programs": [
         {
-          "start": "20190927T00:00:00+00:00",
-          "stop":  "20190927T00:30:00+00:00",
+          "start": "2019-09-27T00:00:00+00:00",
+          "stop":  "2019-09-27T00:30:00+00:00",
           "channel": "Catoon",
           "title": "Tom & Jerry",
           "desc": "Cat and Mouse",
@@ -167,8 +167,8 @@
           "url": ""
         },
         {
-          "start": "20190927T00:30:00+00:00",
-          "stop":  "20190927T02:00:00+00:00",
+          "start": "2019-09-27T00:30:00+00:00",
+          "stop":  "2019-09-27T02:00:00+00:00",
           "channel": "Catoon",
           "title": "Movie-One piece",
           "desc": "One piece",
@@ -180,8 +180,8 @@
           "url": ""
         },
         {
-          "start": "20190927T02:00:00+00:00",
-          "stop":  "20190927T04:00:00+00:00",
+          "start": "2019-09-27T02:00:00+00:00",
+          "stop":  "2019-09-27T04:00:00+00:00",
           "channel": "Catoon",
           "title": "Disney-upside down",
           "desc": "",
@@ -193,8 +193,8 @@
           "url": ""
         },
         {
-          "start": "20190927T04:00:00+00:00",
-          "stop":  "20190927T07:00:00+00:00",
+          "start": "2019-09-27T04:00:00+00:00",
+          "stop":  "2019-09-27T07:00:00+00:00",
           "channel": "Catoon",
           "title": "Harry Porter-Ep1",
           "desc": "",
@@ -206,8 +206,8 @@
           "url": ""
         },
         {
-          "start": "20190927T07:00:00+00:00",
-          "stop":  "20190927T09:00:00+00:00",
+          "start": "2019-09-27T07:00:00+00:00",
+          "stop":  "2019-09-27T09:00:00+00:00",
           "channel": "Catoon",
           "title": "Harry Porter-Ep2",
           "desc": "test",
@@ -219,8 +219,8 @@
           "url": ""
         },
         {
-          "start": "20190927T09:00:00+00:00",
-          "stop":  "20190927T11:00:00+00:00",
+          "start": "2019-09-27T09:00:00+00:00",
+          "stop":  "2019-09-27T11:00:00+00:00",
           "channel": "Catoon",
           "title": "Harry Porter-Ep3",
           "desc": "No Way",
@@ -232,8 +232,8 @@
           "url": ""
         },
         {
-          "start": "20190927T11:00:00+00:00",
-          "stop":  "20190927T12:00:00+00:00",
+          "start": "2019-09-27T11:00:00+00:00",
+          "stop":  "2019-09-27T12:00:00+00:00",
           "channel": "Catoon",
           "title": "The Earth",
           "desc": "",
@@ -245,8 +245,8 @@
           "url": ""
         },
         {
-          "start": "20190927T12:00:00+00:00",
-          "stop":  "20190927T12:30:00+00:00",
+          "start": "2019-09-27T12:00:00+00:00",
+          "stop":  "2019-09-27T12:30:00+00:00",
           "channel": "Catoon",
           "title": "The Moon",
           "desc": "",
